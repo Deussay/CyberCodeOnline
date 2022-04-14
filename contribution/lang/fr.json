@@ -1040,7 +1040,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Déploiement de l'exploitation à distance, veuillez patienter...",
+ 	 	 	 	 	 	"trans": "Piratage à distance en cours, veuillez patienter...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -3432,7 +3432,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclockant leur processeur synaptique afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pendant 10 minutes (cumulable)",
+ 	 	 	 	"trans": "Diffuse tes failles à tous les utilisateurs connectés cybernétiquement, overclockant leur processeur synaptique afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pendant 10 minutes (cumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -3442,7 +3442,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclockant leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pendant 20 minutes (cumulable)",
+ 	 	 	 	"trans": "Diffuse tes failles à tous les utilisateurs connectés cybernétiquement, overclockant leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pendant 20 minutes (cumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -3452,20 +3452,20 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielles de l'utilisateur.\r\n\r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, augmente de 180% le gain d'XP pendant 20 minutes\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes failles à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielles de l'utilisateur.\r\n\r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, augmente de 180% le gain d'XP pendant 20 minutes\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmetteur d'exploit transactionnel",
+ 	 	 	 	"trans": "Transmetteur de failles transactionnelles",
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"currencyName"
  	 	 	 	],
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${currencyName}.\r\n\r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pendant 20 minutes (cumulable)\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes failles à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${currencyName}.\r\n\r\n        Quand utilisé, donne une amélioration globale à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pendant 20 minutes (cumulable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${currencyName}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
@@ -3475,7 +3475,7 @@
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement exploitable. Allez au [Terminal] pour déverrouiller cette caisse",
+ 	 	 	 	"trans": "Un caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement piratable. Allez au [Terminal] pour déverrouiller cette caisse",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -3485,7 +3485,7 @@
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Une caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement exploitable. Allez au [Terminal] pour déverrouiller cette caisse",
+ 	 	 	 	"trans": "Une caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement piratable. Allez au [Terminal] pour déverrouiller cette caisse",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -3495,7 +3495,7 @@
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Une caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement exploitable. Allez au [Terminal] pour déverrouiller cette caisse",
+ 	 	 	 	"trans": "Une caisse renforcée d'une serrure à cryptage biométrique, son contenu semble de grande valeur.\r\n        Par chance, le micro-ordinateur embarqué utilise des logiciels obsolète facilement piratable. Allez au [Terminal] pour déverrouiller cette caisse",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -3665,37 +3665,37 @@
  	 	},
  	 	"chatExploitPirate": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmetteur d'exploit de Tchat [PIRATE]",
+ 	 	 	 	"trans": "Transmetteur pirate de Tchat [PIRATE]",
  	 	 	 	"eng": "Chat exploit transmitter [PIRATE]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un module d'exploitation qui intercepte les paquets du chat global et les modifie, réalisant une Attaque de l'homme du milieu (Man-In-The-Middle). \r\n         Transforme toutes les discussions du chat global en langage pirate. Cela affecte tous les joueurs pendant 10 minutes",
+ 	 	 	 	"trans": "Un module pirate qui intercepte les paquets du chat global et les modifie, réalisant une Attaque de l'homme du milieu (Man-In-The-Middle). \r\n         Transforme toutes les discussions du chat global en langage pirate. Cela affecte tous les joueurs pendant 10 minutes",
  	 	 	 	"eng": "A exploit module that intercepts global chat packages and modifies it, performing Man-In-The-Middle attack.\r\n        Transforms all speech at global chat to Pirate Speak. This effects all players for 10 minutes"
  	 	 	}
  	 	},
  	 	"chatExploitLeet": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmetteur d'exploit de Tchat [1337]",
+ 	 	 	 	"trans": "Transmetteur pirate de Tchat [1337]",
  	 	 	 	"eng": "Chat exploit transmitter [1337]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un module d'exploitation qui intercepte les packages des discussions mondiaux et les modifie, réalisant une attaque \"man-in-the-middle\". \r\n         Transforme tout message de la discussion mondiale vers L33T SP34K. Cela affecte tous les joueurs pendant 10 minutes",
+ 	 	 	 	"trans": "Un module pirate qui intercepte les packages des discussions mondiaux et les modifie, réalisant une attaque \"man-in-the-middle\". \r\n         Transforme tout message de la discussion mondiale vers L33T SP34K. Cela affecte tous les joueurs pendant 10 minutes",
  	 	 	 	"eng": "A exploit module that intercepts global chat packages and modifies it, performing Man-In-The-Middle attack.\r\n        Transforms all speech at global chat to l33t Sp34k. This effects all players for 10 minutes"
  	 	 	}
  	 	},
  	 	"chatExploitUwU": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmetteur d'exploit de Tchat [UWU]",
+ 	 	 	 	"trans": "Transmetteur pirate de Tchat [UWU]",
  	 	 	 	"eng": "Chat exploit transmitter [UwU]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un moduwe d'expwoit qui intewcepte les packages des diwcutions mondiaux et les mowdifie, wéalisant une attaque de type \"man-in-the-middle\". \r\n          Twansfowms tout diwscours de wa diwscussion mondiale vers UwU UwU. Cela affwecte tous les jouweurs pendant 10 minutes",
+ 	 	 	 	"trans": "Un moduwe piwate qui intewcepte les packages des diwcutions mondiaux et les mowdifie, wéalisant une attaque de type \"man-in-the-middle\". \r\n          Twansfowms tout diwscours de wa diwscussion mondiale vers UwU UwU. Cela affwecte tous les jouweurs pendant 10 minutes",
  	 	 	 	"eng": "A expwoit moduwe that intewcepts gwobaw chat packages and modifies it, pewfowming man-in-the-middwe attack.\r\n         twansfowms aww speech at gwobaw chat to uwu speak. This effects aww pwayews fow 10 minutes"
  	 	 	}
  	 	},
  	 	"chatExploitLove": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmetteur d'exploit de Tchat [Amour]",
+ 	 	 	 	"trans": "Transmetteur pirate de Tchat [Amour]",
  	 	 	 	"eng": "Chat exploit transmitter [Love]"
  	 	 	},
  	 	 	"description": {
@@ -3729,7 +3729,7 @@
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "As-tu peur que Big Brother t'espionne pendant que tu navigues sur le cyberespace ? \r\n         Tes communications sont toujours piratées par des attaques malveillantes ? \r\n         Utilise 'Cybertunnel VPN' pour protéger et crypter tes expérience NetRunning! \r\n        \r\n         Une fois activé, ignore tout exploit de discussion pendant 1 heure",
+ 	 	 	 	"trans": "As-tu peur que Big Brother t'espionne pendant que tu navigues sur le cyberespace ? \r\n         Tes communications sont toujours piratées par des attaques malveillantes ? \r\n         Utilise 'Cybertunnel VPN' pour protéger et crypter tes expérience NetRunning! \r\n        \r\n         Une fois activé, ignore tout piratage de discussion pendant 1 heure",
  	 	 	 	"eng": "Worried the Big Brother spying on you while you browse the cyberspace?\r\n        your intercoms always get hacked by malicious attacks? \r\n        use CyberTunnel VPN to protect and encrypt your netrunning experience! \r\n        \r\n        Once activated, ignores any chat exploit for 1 hour"
  	 	 	}
  	 	},
@@ -3739,7 +3739,7 @@
  	 	 	 	"eng": "Protocol Breach Shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un éclat qui contient des exploits avancés. \r\n         Peut être utilisé pour pénêtrer des systèmes tels que la forteresse de données Shangri-La",
+ 	 	 	 	"trans": "Un éclat qui contient des failles avancés. \r\n         Peut être utilisé pour pénêtrer des systèmes tels que la forteresse de données Shangri-La",
  	 	 	 	"eng": "A shard that contains advance exploits. \r\n        Can be used to breach systems such as Shangri-la Data Fortress"
  	 	 	}
  	 	},
@@ -4379,7 +4379,7 @@
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Lance une attaque collaborative dans le cyberespace visant la forteresse de données Shangri-La. Si l'attaque réussit, il est possible de forcer la forteresse de données à transmettre des exploitations à tous les utilisateurs connectés cybernétiquement.",
+ 	 	 	 	"trans": "Lance une attaque collaborative dans le cyberespace visant la forteresse de données Shangri-La. Si l'attaque réussit, il est possible de forcer la forteresse de données à transmettre des failles à tous les utilisateurs connectés cybernétiquement.",
  	 	 	 	"eng": "Launch a collaborative attack in cyberspace targeting the Shangri-La Data Fortress.\r\nIf the attack succeeds, it’s possible to force the Data Fortress to transmit exploits to all cybernetically connected users."
  	 	 	}
  	 	},
@@ -4389,11 +4389,11 @@
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK Exp Farm]\r\n        Déploie une IA dans un donjon pour toi. Cela utilisera un noyau d'IA, qui ne fait généralement qu'une seule expédition.",
+ 	 	 	 	"trans": "[AFK Exp Farm]\r\n        Déploie une IA dans un donjon pour toi. Cela utilisera un Cœur d'IA, qui ne fait généralement qu'une seule expédition.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Tu peux utiliser tes noyaux d'IA pour combattre automatiquement des ennemis durant ton absence",
+ 	 	 	 	"trans": "Tu peux utiliser tes Cœurs d'IA pour combattre automatiquement des ennemis durant ton absence",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -4630,7 +4630,7 @@
  	 	 	"eng": "Frontal Cortex Enhancement"
  	 	},
  	 	"btcBonus": {
- 	 	 	"trans": "Exploitation de transaction",
+ 	 	 	"trans": "Piratage de transaction",
  	 	 	"eng": "Transaction Exploit"
  	 	},
  	 	"upgradeChance1": {
